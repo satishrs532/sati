@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68384" started-at="2020-09-01T22:36:44 IST" finished-at="2020-09-01T22:37:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68384" started-at="2020-09-01T22:36:44 IST" finished-at="2020-09-01T22:37:52 IST">
+      <class name="com.testScripts.SearchingMobile">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testScripts.SearchingMobile@49fc609f]" name="login" is-config="true" duration-ms="50219" started-at="2020-09-01T22:36:44 IST" finished-at="2020-09-01T22:37:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tv()[pri:0, instance:com.testScripts.SearchingMobile@49fc609f]" name="tv" duration-ms="14253" started-at="2020-09-01T22:37:34 IST" finished-at="2020-09-01T22:37:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tv -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.testScripts.SearchingMobile@49fc609f]" name="logout" is-config="true" duration-ms="3810" started-at="2020-09-01T22:37:48 IST" finished-at="2020-09-01T22:37:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.testScripts.SearchingMobile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
